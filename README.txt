@@ -1,4 +1,4 @@
-Réalisé par Quentin Guardia (qguardia66@gmail.com)
+Réalisé par Quentin Guardia (quentin.guardia@protonmail.com)
 
 Compiler:
 make
